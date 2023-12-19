@@ -42,3 +42,6 @@ def binary_search(someList: list) -> function:
     else:
         # если массив пустой, вызов функции ничего не вернет
         return None
+    
+
+print('oh my God')
