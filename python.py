@@ -1,5 +1,8 @@
 print("hey")
 
+def newFunction()
+    pass
+
 def binary_search(someList: list) -> function:
     """Функция поиска числа в массиве чисел.
 
